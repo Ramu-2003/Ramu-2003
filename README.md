@@ -29,17 +29,31 @@ I enjoy transforming ideas into interactive interfaces using design + code.
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
+
+<!-- Web -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+
+<!-- Programming & DB -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+
+<!-- Design & Media -->
+<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/adobe-audition-cc-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/></a>
+
 </p>
 
 <h3 align="left">GitHub Stats</h3>
