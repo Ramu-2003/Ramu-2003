@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;UI%2FUX+Designer;Design+Meets+Code;Building+Clean+Modern+Interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Mern+Stack+Developer;UI%2FUX+Designer;Design+Meets+Code;Building+Clean+Modern+Interfaces" />
 </p>
 
 <p align="center">
