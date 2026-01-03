@@ -21,17 +21,6 @@ I enjoy transforming ideas into interactive interfaces using <strong>design + co
 
 ---
 
-<h3 align="center">🚀 What I’m Currently Working On</h3>
-
-<p align="center">
-🔹 Building modern frontend applications using React<br/>
-🔹 Designing intuitive UI/UX systems with Figma<br/>
-🔹 Improving performance, responsiveness & accessibility<br/>
-🔹 Exploring full-stack development with Node.js & MongoDB
-</p>
-
----
-
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
@@ -77,16 +66,6 @@ I enjoy transforming ideas into interactive interfaces using <strong>design + co
 <img src="https://img.shields.io/badge/Audition-00005B?style=for-the-badge&logo=adobeaudition&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-</p>
-
----
-
-<h3 align="center">📌 Featured Projects</h3>
-
-<p align="center">
-🔹 <strong>Portfolio Website</strong> – Showcasing frontend & UI/UX work<br/>
-🔹 <strong>Auth Slider App</strong> – Interactive authentication UI using React<br/>
-🔹 <strong>Tech In My Style</strong> – Educational platform for learning web technologies
 </p>
 
 ---
