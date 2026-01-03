@@ -2,6 +2,10 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;UI%2FUX+Designer;Design+Meets+Code;Building+Clean+Modern+Interfaces" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramu-2003&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
@@ -12,7 +16,18 @@
 <p align="center">
 I’m a creative Frontend Web Developer and UI/UX Designer passionate about building<br/>
 <strong>clean, modern, and user-focused digital experiences</strong>.<br/>
-I transform ideas into interactive interfaces using <strong>design + code</strong>.
+I enjoy transforming ideas into interactive interfaces using <strong>design + code</strong>.
+</p>
+
+---
+
+<h3 align="center">🚀 What I’m Currently Working On</h3>
+
+<p align="center">
+🔹 Building modern frontend applications using React<br/>
+🔹 Designing intuitive UI/UX systems with Figma<br/>
+🔹 Improving performance, responsiveness & accessibility<br/>
+🔹 Exploring full-stack development with Node.js & MongoDB
 </p>
 
 ---
@@ -66,28 +81,13 @@ I transform ideas into interactive interfaces using <strong>design + code</stron
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<!-- Primary Streak -->
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ramu-2003&theme=dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<!-- Backup Streak -->
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ramu-2003&theme=dark&hide_border=true"/>
-</p>
+<h3 align="center">📌 Featured Projects</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ramu-2003&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramu-2003&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
+🔹 <strong>Portfolio Website</strong> – Showcasing frontend & UI/UX work<br/>
+🔹 <strong>Auth Slider App</strong> – Interactive authentication UI using React<br/>
+🔹 <strong>Tech In My Style</strong> – Educational platform for learning web technologies
 </p>
 
 ---
 
-<p align="center">
-✨ <strong>Building meaningful digital experiences, one interface at a time.</strong> ✨
-</p>
