@@ -56,38 +56,73 @@
 
 ---
 
-# 📚 Courses Portfolio
-
-## 🔥 Core Courses (Designed & Developed by Me)
+## 🔥 Courses (Designed & Developed by Me)
 
 <p align="center">
-  <img src="HTML.png" href="https://techinmystyle.com/html%20in%20my%20style/index.html" width="90"/>
-  <img src="CSS.png" width="90"/>
-  <img src="JS-BEGINNNERS.png" width="90"/>
-  <img src="JS-INTERMEDIATE.png" width="90"/>
+
+  <a href="https://techinmystyle.com/html%20in%20my%20style/index.html" target="_blank">
+    <img src="HTML.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/css%20in%20my%20style/index.html" target="_blank">
+    <img src="CSS.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/javascript%20basic/index.html" target="_blank">
+    <img src="JS-BEGINNNERS.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/javascript%20intermediate/index.html" target="_blank">
+    <img src="JS-INTERMEDIATE.png" width="90"/>
+  </a>
+
 </p>
 
 <p align="center">
 HTML In My Style • CSS In My Style • JavaScript Basic • JavaScript Intermediate
 </p>
-
 ---
-
 ## 🌐 Additional Courses On Platform
 
 <p align="center">
-  <img src="C.png" width="90"/>
-  <img src="JAVA.png" width="90"/>
-  <img src="PYTHON.png" width="90"/>
-  <img src="ML.png" width="90"/>
-  <img src="DL.png" width="90"/>
-  <img src="DSC.png" width="90"/>
+
+  <a href="https://techinmystyle.com/c/index.html" target="_blank">
+    <img src="C.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/java/index.html" target="_blank">
+    <img src="JAVA.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/python/index.html" target="_blank">
+    <img src="PYTHON.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/machine-learning/index.html" target="_blank">
+    <img src="ML.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/deep-learning/index.html" target="_blank">
+    <img src="DL.png" width="90"/>
+  </a>
+
+  <a href="https://techinmystyle.com/data-science/index.html" target="_blank">
+    <img src="DSC.png" width="90"/>
+  </a>
+
 </p>
 
 <p align="center">
 C • Java • Python • Machine Learning • Deep Learning • Data Science
 </p>
 
+
+<a href="LINK" target="_blank">
+  <img src="HTML.png" width="90"
+  style="transition:0.3s; border-radius:12px;"
+  onmouseover="this.style.transform='scale(1.08)'"
+  onmouseout="this.style.transform='scale(1)'"/>
+</a>
 ---
 
 # 🛠 Technology Stack
