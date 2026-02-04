@@ -1,11 +1,11 @@
 <!-- ===================== ULTRA HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,100:004e92&text=Rama%20Krishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,100:243B55&text=G%20RAMA%20KRISHNA%20PRASAD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<p align="center">
-  <b>MERN Stack Developer • UI/UX Designer • Frontend Architect</b>
+<p align="center" style="font-size:18px; letter-spacing:1.5px; font-family:monospace;">
+  MERN Stack Developer &nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; No-Code AI Developer &nbsp;•&nbsp; WordPress Site Builder
 </p>
 
 <p align="center">
@@ -15,13 +15,16 @@
 ---
 
 <p align="center">
-  <img src="sample.png" width="160" height="160" style="border-radius:50%;" />
+  <img src="rk.png" width="160" height="160" style="border-radius:50%;" />
 </p>
 
-<h2 align="center">I'm Rama Krishna 🇮🇳</h2>
+<h2 align="center">
+  I'm Rama Krishna Prasad 🇮🇳
+  <img src="https://flagcdn.com/w20/in.png" width="20" style="vertical-align:middle; margin-left:6px;" />
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=00F5FF&width=600&lines=MERN+Stack+Developer;UI%2FUX+Designer;Turning+Wireframes+Into+Reality;Building+Tech+With+Structure;Designing+Learning+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=00F5FF&width=650&center=true&lines=MERN+Stack+Developer;UI%2FUX+Designer;No-Code+AI+Developer;Design+Meets+Code;Turning+Wireframes+Into+Reality" />
 </p>
 
 <p align="center">
@@ -37,14 +40,35 @@
 # 🚀 Featured Platform — Tech In My Style
 
 <p align="center">
-  <img src="tech-no bg.png" href="https://techinmystyle.com" width="120"/>
+  <img src="tech-no bg.png" href="https://techinmystyle.com/courses" width="120"/>
 </p>
 
 <p align="center">
-🔗 https://techinmystyle.com
+  <a href="https://techinmystyle.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Tech%20In%20My%20Style-Explore%20Platform-141E30?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ### 👥 Team Collaboration (3 Members)
+
+<p align="center">
+
+  <a href="https://ramu2710-portfolio.netlify.app/" target="_blank">
+    <img src="rk.png" width="120" 
+         style="border-radius:50%; margin:15px;" />
+  </a>
+
+  <a href="https://basha-portfolio-2049.netlify.app/" target="_blank">
+    <img src="basha.png" width="120" 
+         style="border-radius:50%; margin:15px;" />
+  </a>
+
+  <a href="https://asd4305-portfolio.netlify.app/" target="_blank">
+    <img src="asadullah.png" width="120" 
+         style="border-radius:50%; margin:15px;" />
+  </a>
+
+</p>
 
 ### 🎯 My Role
 
@@ -69,7 +93,7 @@
   </a>
 
   <a href="https://techinmystyle.com/javascript%20basic/index.html" target="_blank">
-    <img src="JS-BEGINNNERS.png" width="90"/>
+    <img src="JS-BEGINNERS.png" width="90"/>
   </a>
 
   <a href="https://techinmystyle.com/javascript%20intermediate/index.html" target="_blank">
@@ -116,13 +140,6 @@ HTML In My Style • CSS In My Style • JavaScript Basic • JavaScript Interme
 C • Java • Python • Machine Learning • Deep Learning • Data Science
 </p>
 
-
-<a href="LINK" target="_blank">
-  <img src="HTML.png" width="90"
-  style="transition:0.3s; border-radius:12px;"
-  onmouseover="this.style.transform='scale(1.08)'"
-  onmouseout="this.style.transform='scale(1)'"/>
-</a>
 ---
 
 # 🛠 Technology Stack
@@ -136,12 +153,12 @@ C • Java • Python • Machine Learning • Deep Learning • Data Science
 # 📊 GitHub Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramu-2003&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramu-2003&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu-2003&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -149,7 +166,7 @@ C • Java • Python • Machine Learning • Deep Learning • Data Science
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramu-2003&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -157,7 +174,7 @@ C • Java • Python • Machine Learning • Deep Learning • Data Science
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ramu-2003/Ramu-2003/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
