@@ -37,7 +37,7 @@
 # 🚀 Featured Platform — Tech In My Style
 
 <p align="center">
-  <img src="tech.png" width="120"/>
+  <img src="tech-no bg.png" href="https://techinmystyle.com" width="120"/>
 </p>
 
 <p align="center">
@@ -61,10 +61,10 @@
 ## 🔥 Core Courses (Designed & Developed by Me)
 
 <p align="center">
-  <img src="html.png" width="90"/>
-  <img src="css.png" width="90"/>
-  <img src="js-basic.png" width="90"/>
-  <img src="js-intermediate.png" width="90"/>
+  <img src="HTML.png" href="https://techinmystyle.com/html%20in%20my%20style/index.html" width="90"/>
+  <img src="CSS.png" width="90"/>
+  <img src="JS-BEGINNNERS.png" width="90"/>
+  <img src="JS-INTERMEDIATE.png" width="90"/>
 </p>
 
 <p align="center">
@@ -76,12 +76,12 @@ HTML In My Style • CSS In My Style • JavaScript Basic • JavaScript Interme
 ## 🌐 Additional Courses On Platform
 
 <p align="center">
-  <img src="c.png" width="90"/>
-  <img src="java.png" width="90"/>
-  <img src="python.png" width="90"/>
-  <img src="ml.png" width="90"/>
-  <img src="dl.png" width="90"/>
-  <img src="dsc.png" width="90"/>
+  <img src="C.png" width="90"/>
+  <img src="JAVA.png" width="90"/>
+  <img src="PYTHON.png" width="90"/>
+  <img src="ML.png" width="90"/>
+  <img src="DL.png" width="90"/>
+  <img src="DSC.png" width="90"/>
 </p>
 
 <p align="center">
