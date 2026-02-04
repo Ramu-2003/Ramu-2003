@@ -105,7 +105,9 @@
 <p align="center">
 HTML In My Style • CSS In My Style • JavaScript Basic • JavaScript Intermediate
 </p>
+
 ---
+
 ## 🌐 Additional Courses On Platform
 
 <p align="center">
@@ -151,15 +153,11 @@ C • Java • Python • Machine Learning • Deep Learning • Data Science
 ---
 
 # 📊 GitHub Performance Dashboard
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramu-2003&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramu-2003&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu-2003&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -179,22 +177,30 @@ C • Java • Python • Machine Learning • Deep Learning • Data Science
 
 ---
 
-# 🌍 Connect
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://techinmystyle.com">
-    <img src="https://img.shields.io/badge/Visit%20Platform-TECH%20IN%20MY%20STYLE-0A66C2?style=for-the-badge"/>
+
+  <a href="https://www.linkedin.com/in/rama-krishna-prasad/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
-</p>
 
----
+  <a href="https://www.instagram.com/rama._.krishna._00" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
+  </a>
 
-# 💎 Philosophy
+  <a href="mailto:ramu4012y@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+  </a>
 
-<p align="center">
-Consistency over intensity. <br>
-Structure over chaos. <br>
-Implementation over theory.
+  <a href="https://bento.me/ramu-2003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="60"/>
+  </a>
+
+  <a href="https://ramu2710-portfolio.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" height="60"/>
+  </a>
+
 </p>
 
 ---
