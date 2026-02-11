@@ -1,11 +1,11 @@
 <!-- ===================== ULTRA HEADER ===================== -->
-
+    
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,100:243B55&text=G%20RAMA%20KRISHNA%20PRASAD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center" style="font-size:18px; letter-spacing:1.5px; font-family:monospace;">
-  MERN Stack Developer &nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; No-Code AI Developer &nbsp;•&nbsp; WordPress Site Builder
+  MERN Stack Developer &nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; No-Code AI Developer
 </p>
 
 <p align="center">
